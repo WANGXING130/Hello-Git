@@ -1,6 +1,7 @@
-# Matplotlib:## Data visualization libirary for python
+# Matplotlib: 
+## Data visualization libirary for python
 
-![Matplotlib](/C:/Users/Refor/Desktop/屏幕截图 2024-09-15 132835.png)
+![Matplotlib]("C:\Users\Refor\Desktop\屏幕截图 2024-09-15 132835.png")
 
 -------------------------------------------------------------
 
@@ -16,17 +17,17 @@ Matplotlib is a comprehensive libirary for creating static,animated,and interact
 
 ### install
 
---*pip*--
+**pip**
 ~~~
 bash
     pip install matplotlib
 ~~~
 
 **conda**
-'''
+~~~
 bash
     conda install matplotlib
-'''
+~~~
 
 
 ### Learn more
