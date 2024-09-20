@@ -8,7 +8,7 @@ done
 sum=0
 count=0
 
-while read line
+while read line;
 do
     sum=$((sum + line))
     ((count++))
